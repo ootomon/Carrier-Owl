@@ -1,11 +1,11 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:cs.* OR cat:econ.* '
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        management: 3
+        gender: 3
+        diversity : 1
 
 # 通知の閾値
 score_threshold: 0
