@@ -1,12 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*  '
+subject: 'cat:econ.*'
 
 # 検索キーワード
 keywords:
         management: 3
         gender: 3
         diversity : 1
-        computer: 1
+     
 
 # 通知の閾値
 score_threshold: 0
